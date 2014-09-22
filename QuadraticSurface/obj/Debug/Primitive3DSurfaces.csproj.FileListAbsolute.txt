@@ -1,0 +1,7 @@
+\\server\temp\CSharp\QuadraticSurface\bin\Debug\Primitive3DSurfaces.dll
+\\server\temp\CSharp\QuadraticSurface\bin\Debug\Primitive3DSurfaces.pdb
+\\server\temp\CSharp\QuadraticSurface\obj\Debug\ResolveAssemblyReference.cache
+\\server\temp\CSharp\QuadraticSurface\obj\Debug\Primitive3DSurfaces.Properties.Resources.resources
+\\server\temp\CSharp\QuadraticSurface\obj\Debug\Primitive3DSurfaces.csproj.GenerateResource.Cache
+\\server\temp\CSharp\QuadraticSurface\obj\Debug\Primitive3DSurfaces.dll
+\\server\temp\CSharp\QuadraticSurface\obj\Debug\Primitive3DSurfaces.pdb

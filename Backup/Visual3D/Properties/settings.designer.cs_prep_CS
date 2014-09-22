@@ -1,0 +1,30 @@
+﻿
+
+
+
+
+
+
+
+
+
+[assembly:         System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="Visual3DSample.Properties.Settings.get_Default():Visual3DSample.Properties.Settin" +
+    "gs")]
+
+namespace Visual3DSample.Properties {
+
+
+    [        System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+    internal sealed         class Settings :         System.Configuration.ApplicationSettingsBase {
+
+        private static Settings defaultInstance = new Settings();
+
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}
+
+ 

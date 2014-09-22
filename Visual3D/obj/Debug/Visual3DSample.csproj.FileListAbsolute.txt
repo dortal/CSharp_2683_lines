@@ -1,0 +1,14 @@
+\\server\temp\CSharp\Visual3D\bin\Debug\Visual3DSample.exe
+\\server\temp\CSharp\Visual3D\bin\Debug\Visual3DSample.pdb
+\\server\temp\CSharp\Visual3D\bin\Debug\Primitive3DSurfaces.dll
+\\server\temp\CSharp\Visual3D\bin\Debug\Primitive3DSurfaces.pdb
+\\server\temp\CSharp\Visual3D\obj\Debug\ResolveAssemblyReference.cache
+\\server\temp\CSharp\Visual3D\obj\Debug\Window1.baml
+\\server\temp\CSharp\Visual3D\obj\Debug\Window1.g.cs
+\\server\temp\CSharp\Visual3D\obj\Debug\MyApp.g.cs
+\\server\temp\CSharp\Visual3D\obj\Debug\Visual3DSample_MarkupCompile.cache
+\\server\temp\CSharp\Visual3D\obj\Debug\Visual3DSample.g.resources
+\\server\temp\CSharp\Visual3D\obj\Debug\Visual3DSample.Properties.Resources.resources
+\\server\temp\CSharp\Visual3D\obj\Debug\Visual3DSample.csproj.GenerateResource.Cache
+\\server\temp\CSharp\Visual3D\obj\Debug\Visual3DSample.exe
+\\server\temp\CSharp\Visual3D\obj\Debug\Visual3DSample.pdb

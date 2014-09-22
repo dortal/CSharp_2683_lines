@@ -1,0 +1,70 @@
+﻿
+
+
+
+
+
+
+
+
+
+[assembly:         System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="Visual3DSample.Properties.Resources.get_ResourceManager():System.Resources.Resour" +
+    "ceManager")]
+[assembly:         System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="Visual3DSample.Properties.Resources.get_Culture():System.Globalization.CultureInf" +
+    "o")]
+[assembly:         System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="Visual3DSample.Properties.Resources.set_Culture(System.Globalization.CultureInfo)" +
+    ":Void")]
+
+namespace Visual3DSample.Properties {
+
+
+
+
+
+
+
+
+
+    [        System.Diagnostics.DebuggerNonUserCodeAttribute()]
+    [        System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+    internal class Resources {
+
+        private static         System.Resources.ResourceManager resourceMan;
+
+        private static         System.Globalization.CultureInfo resourceCulture;
+
+        [        System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
+        internal Resources() {
+        }
+
+
+
+
+        [        System.ComponentModel.EditorBrowsableAttribute(        System.ComponentModel.EditorBrowsableState.Advanced)]
+        internal static         System.Resources.ResourceManager ResourceManager {
+            get {
+                if ((resourceMan == null)) {
+                            System.Resources.ResourceManager temp = new         System.Resources.ResourceManager("Visual3DSample.Properties.Resources", typeof(Resources).Assembly);
+                    resourceMan = temp;
+                }
+                return resourceMan;
+            }
+        }
+
+
+
+
+
+        [        System.ComponentModel.EditorBrowsableAttribute(        System.ComponentModel.EditorBrowsableState.Advanced)]
+        internal static         System.Globalization.CultureInfo Culture {
+            get {
+                return resourceCulture;
+            }
+            set {
+                resourceCulture = value;
+            }
+        }
+    }
+}
+
+ 
